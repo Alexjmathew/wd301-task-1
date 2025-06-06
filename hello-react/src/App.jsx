@@ -8,7 +8,7 @@ function App() {
       <div className="header">
         <h1 className="text-4xl font-bold">Smarter Tasks</h1>
         <p className="text-gray-700">
-          <b>Project:</b> G
+          <b>Project:</b> Graduation Final Year Project (Revamp College Website)
         </p>
       </div>
 
