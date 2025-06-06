@@ -10,8 +10,8 @@ function App(){
       </div>
       <div>
         <h1>Completed</h1>
-        <TaskCard title="Make Chicken Curry" aname="Mitu" duedate= "3.6.2025" />
-        <TaskCard title="Make Chicken Biryani" aname="Puppy" duedate= "2.6.2025" />
+        <TaskCard title="Make Chicken fry" aname="Mitu" duedate= "3.6.2025" />
+        <TaskCard title="Make mutton curry" aname="Puppy" duedate= "2.6.2025" />
       </div>
     </div>
   )
