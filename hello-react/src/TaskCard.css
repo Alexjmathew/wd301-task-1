@@ -1,0 +1,15 @@
+.TaskItem {
+    border: 1px solid #ccc; /* Softer border */
+    border-radius: 8px;      /* More rounded corners */
+    padding: 10px 14px;      /* More spacious padding */
+    margin-bottom: 10px;     /* More spacing between items */
+    background-color: #4ade80; /* A softer green (Tailwind's green-400) */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .TaskItem:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+  
