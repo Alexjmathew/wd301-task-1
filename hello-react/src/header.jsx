@@ -1,7 +1,12 @@
 function Header(){
-    return (<div>
-        <h1 className="text-4xl text-left font-bold">Smarter tasks</h1>
-        <h3 className="text-left"><span className="font-bold">Project</h3>
-    </div>)
+    return (
+        <div className="mb-6">
+            <h1 className="text-4xl text-left font-bold text-gray-800">Smarter Tasks</h1>
+            <h3 className="text-left text-lg text-gray-600">
+                <span className="font-bold">Project:</span> Task Management System
+            </h3>
+        </div>
+    )
 }
+
 export default Header;
